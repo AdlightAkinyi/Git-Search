@@ -27,6 +27,7 @@ git clone https://github.com/AdlightAkinyi/Git-Search.git
 Open Terminal {Ctrl+Alt+T}
 Run ng serve for a dev server.
 npm install
+ng serve
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
