@@ -10,12 +10,12 @@ img{
 }
 .card{
   /* background: teal; */
-  background-color: rgba(5, 146, 146, 0.6);
+  background-color: rgba(96, 41, 92, 0.6);
   box-shadow: 3px 3px 5px blue;
 
 }
 .repo{
-  background-color:rgba(232, 253, 255, 0.705);
+  background-color:rgba(31, 36, 86, 0.705);
   color: black;
   margin-bottom: 2%;
   border-radius: 4px; 
